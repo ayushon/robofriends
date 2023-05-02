@@ -1,0 +1,2 @@
+(this.webpackJsonprobofriends=this.webpackJsonprobofriends||[]).push([[0],{11:function(n,t,e){"use strict";e.r(t);e(0);var o=e(2),i=e.n(o),c=(e(9),e(3)),r=e.n(c),s=function(n){n&&n instanceof Function&&e.e(3).then(e.bind(null,12)).then((function(t){var e=t.getCLS,o=t.getFID,i=t.getFCP,c=t.getLCP,r=t.getTTFB;e(n),o(n),i(n),c(n),r(n)}))},u=e(4);i.a.render(Object(u.jsx)(r.a,{}),document.getElementById("root")),s()},3:function(n,t){},9:function(n,t,e){}},[[11,1,2]]]);
+//# sourceMappingURL=main.5210c908.chunk.js.map
